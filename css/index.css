@@ -916,6 +916,7 @@ footer .footer-right .family .family-list ul li:hover a {
     }
     header .nav-bg {
         display: block;
+        margin-top: 10rem;
     }
     .center-box2 {
         width: 92%;
