@@ -850,7 +850,10 @@ footer .footer-right .family .family-list ul li:hover a {
         display: flex;
         flex-flow: column nowrap;
         align-items: flex-end;
-        }
+    }
+    header .menu a img {
+        width: 50%;
+    }
     header nav > ul {
         width: 100%;
         flex-flow: column nowrap;
