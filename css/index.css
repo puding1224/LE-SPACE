@@ -1059,6 +1059,9 @@ footer .footer-right .family .family-list ul li:hover a {
     }
     .s5 a {
         font-size: 1rem;
+        width: 8rem;
+        height: 45px;
+        margin-top: 3rem;
     }
     .footer {
         padding-top: 0;
