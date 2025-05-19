@@ -688,11 +688,11 @@ footer .footer-left .menu-top {
 footer .footer-left .menu-top li:first-child {
     color: white;
     font-weight: 400;
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 footer .footer-left .menu-top li:nth-child(2) {
     color: rgb(150, 150, 150);
-    font-size: 0.9rem;
+    font-size: 0.8rem;
 }
 footer .footer-left .menu-down {
     display: flex;
