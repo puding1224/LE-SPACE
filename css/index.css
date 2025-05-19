@@ -997,7 +997,7 @@ footer .footer-right .family .family-list ul li:hover a {
         height: 3.2rem;
         left: 50%;
         top:41%;
-        transform: translateX(-350%);
+        transform: translateX(-320%);
     }
     .s4 .swiper .swiper-button-prev::after {
         width: 3.2rem;
