@@ -1059,6 +1059,7 @@ footer .footer-right .family .family-list ul li:hover a {
         line-height: 2rem;
         font-size: 1.3rem;
         text-align: center;
+        display: none;
     }
     .s5 a {
         font-size: 1rem;
