@@ -543,6 +543,7 @@ header .right-header .menu {
     height: 4.625rem;
     left: 50%;
     top: 35%;
+    transform:translateX(-470%);
 }
 /*swiper 슬라이드의 왼쪽버튼 디자인 수정(커스터마이징) */
 .s4 .swiper .swiper-button-prev::after {
