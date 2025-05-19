@@ -685,7 +685,7 @@ footer .footer-left .menu-top {
     margin-bottom: 1rem;
     color: white;
 }
-footer .footer-left .menu-top li:first-child a {
+footer .footer-left .menu-top li:first-child {
     color: white;
     font-weight: 400;
     font-size: 0.9rem;
