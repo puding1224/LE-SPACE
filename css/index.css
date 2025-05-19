@@ -619,10 +619,9 @@ header .right-header .menu {
     display: none;
 }
 .s5 {
-    /* padding-top: 15.5rem;
-    padding-bottom: 15.5rem; */
+    padding-top: 15.5rem;
+    padding-bottom: 15.5rem; 
     width: 100%;
-    height: 100vh;
     background: url(../img/img1.jpg) no-repeat center /cover;
     display: flex;
     flex-flow: column; 
