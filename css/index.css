@@ -963,6 +963,9 @@ footer .footer-right .family .family-list ul li:hover a {
     .s3 .banner ul li a p {
        font-size: 1rem;
     }
+    .s3 .banner ul {
+        gap:0
+        justify-content:space-between;
     .s3 .banner ul li {
         width: 48%;
         height: 250px;
