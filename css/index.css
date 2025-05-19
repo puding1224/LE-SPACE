@@ -930,6 +930,9 @@ footer .footer-right .family .family-list ul li:hover a {
     .s2 .acc ul li div a h2 {
         font-size: 0.7rem;
     }
+    .s2 h2 {
+        letter-spacing: 0.1rem;
+    }
     .s2 h2 hr {
         width: 4rem;
         margin-left: 0;
