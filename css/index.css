@@ -551,7 +551,6 @@ header .right-header .menu {
     width: 4.625rem;
     height: 4.625rem;
     left: 50%;
-    transform: translateX(-470%);
 }
 .s4 .swiper .swiper-button-next {
     width: 5.625rem;
