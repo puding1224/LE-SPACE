@@ -964,11 +964,13 @@ footer .footer-right .family .family-list ul li:hover a {
        font-size: 1rem;
     }
     .s3 .banner ul li {
-        width: 47%;
+        width: 48%;
         height: 250px;
     }
     .s3 .banner ul {
         display: flex;
+        justify-content: space-between;
+        gap:0;
         flex-flow: row wrap;
     }
     .s3 .banner ul li:last-child {
