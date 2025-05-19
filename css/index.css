@@ -914,7 +914,6 @@ footer .footer-right .family .family-list ul li:hover a {
     }
     header .nav-bg {
         display: block;
-        margin-top: 18rem;
     }
     .center-box2 {
         width: 92%;
@@ -965,7 +964,7 @@ footer .footer-right .family .family-list ul li:hover a {
        font-size: 1rem;
     }
     .s3 .banner ul li {
-        width: 48.5%;
+        width: 48%;
         height: 250px;
     }
     .s3 .banner ul {
