@@ -1083,24 +1083,25 @@ footer .footer-right .family .family-list ul li:hover a {
     }
     footer .footer-wrap .footer-left .menu-top a {
         /* color: white; */
-        font-size: 0.9rem;
+        font-size: 0.7rem;
     }
     footer .footer-left .menu-down {
         gap: 1rem;
     }
      footer .footer-left .menu-down .txt {
-        font-size: 0.9;
+        font-size: 0.6rem;
      }
      footer .footer-left .menu-down li .txt-gray {
-        font-size: 0.8rem;
+        font-size: 0.6rem;
      }
     footer .footer-left .menu-down li {
         white-space: nowrap;
-        font-size: 0.7rem;
+        font-size: 0.6rem;
     }
     footer .footer-left .copy {
         padding-top: 1rem;
         padding-bottom: 1.5rem;
+        font-size: 0.6rem;
     }
     footer .footer-right .family .family-list {
         width:12.5rem
